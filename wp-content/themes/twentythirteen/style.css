@@ -1868,6 +1868,22 @@ footer.entry-meta {
 	margin-bottom: 24px;
 }
 
+.entry-date {
+	display: none;
+}
+
+.entry-meta .date a:before {
+    display: none;
+}
+
+.categories-links  {
+    display: none;
+}
+
+.entry-meta .author  {
+    display: none;
+}
+
 /**
  * 5.7 Post/Paging Navigation
  * ----------------------------------------------------------------------------
